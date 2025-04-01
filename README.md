@@ -30,7 +30,7 @@
 ---
 
 <div style="text-align: center; margin: 2rem 0">
-  <img src="./images/image2.png" alt="Experiment 4 Visualization" style="max-width: 80%; border-radius: 8px; box-shadow: 0 2px 15px rgba(0,0,0,0.2)">
+  <img src="./images/image4.png" alt="Experiment 4 Visualization" style="max-width: 80%; border-radius: 8px; box-shadow: 0 2px 15px rgba(0,0,0,0.2)">
 </div>
 <p style="text-align: center; font-style: italic; color: #666">
   Figure R4: Ablation study on effect of input image numbers on ID-cloak performance.
