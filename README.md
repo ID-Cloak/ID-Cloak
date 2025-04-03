@@ -22,11 +22,9 @@
 
 ---
 
-[//]: # (### **Figure R4: Ablation study on effect of input image numbers on ID-cloak performance.**  )
+### **Figure R4: Ablation study on effect of input image numbers on ID-cloak performance.**  
 
-[//]: # (<p align="center">)
-
-[//]: # (  <img src="images/image4.png">)
-
-[//]: # (</p>)
+<p align="center">
+  <img src="images/image4.png">
+</p>
 
