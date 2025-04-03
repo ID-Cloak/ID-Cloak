@@ -17,9 +17,14 @@
 ---
 ### **Figure R3: Qualitative comparison on more complex and diverse prompts.**  
 <p align="center">
-  <img src="images/image3.png">
+  <img src="images/image3a.png">
 </p>
-
+<p align="center">
+  <img src="images/image3b.png">
+</p>
+<p align="center">
+  <img src="images/image3c.png">
+</p>
 ---
 
 ### **Figure R4: Ablation study on effect of input image numbers on ID-cloak performance.**  
